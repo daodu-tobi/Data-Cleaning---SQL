@@ -31,12 +31,15 @@ The aim of this project is data cleaning, preparing the data and getting the dat
 
 - Using a self join to populate property address where parcel address is the same but uniqueID is different
 
-- Breaking down the property address into address and city
+- Breaking down the property address into address and city and address
 
   Snapshot of New-address and New_city column
 
   ![New-Address](https://github.com/user-attachments/assets/aea49ba9-6b0c-43d8-a54d-1b6f732ac5ee)
 
 - Breaking the ownersAddress into three parts using PARSENAME
+
+  Snapshot of New Column
+  ![OwnerAddress](https://github.com/user-attachments/assets/3211276c-bc15-4a73-adc3-6e92b3a52aa8)
 
   

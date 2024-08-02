@@ -37,6 +37,9 @@ The aim of this project is data cleaning, preparing the data and getting the dat
 
   ![New-Address](https://github.com/user-attachments/assets/aea49ba9-6b0c-43d8-a54d-1b6f732ac5ee)
 
+  Please click link for full Project
+  https://github.com/daodu-tobi/Data-Cleaning---SQL/blob/main/Data%20cleaning.sql
+
 - Breaking the ownersAddress into three parts using PARSENAME
 
   Snapshot of New Column

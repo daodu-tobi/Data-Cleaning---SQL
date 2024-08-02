@@ -31,7 +31,7 @@ The aim of this project is data cleaning, preparing the data and getting the dat
 
 - Using a self join to populate property address where parcel address is the same but uniqueID is different
 
-- Breaking down the property address into address and city and address
+- Breaking down the property address into address and city
 
   Snapshot of New-address and New_city column
 
